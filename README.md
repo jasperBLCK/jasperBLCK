@@ -3,14 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff9c&height=200&section=header&text=jasperBLCK&fontSize=70&fontColor=00ff9c&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Security&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/jasperBLCK">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+Ansar+Karimov;Fullstack+Developer+%7C+Python+%2F+FastAPI;Cybersecurity+%E2%80%A2+School+21;Bots+%E2%80%A2+Parsers+%E2%80%A2+AI+integrations;Hackathon+builder+%E2%80%A2+ship+fast%2C+ship+secure" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+jasperBLCK;Fullstack+Developer+%7C+Python+%2F+FastAPI;Cybersecurity+%E2%80%A2+OSINT+%E2%80%A2+Linux;Bots+%E2%80%A2+Parsers+%E2%80%A2+AI+integrations;Hackathon+builder+%E2%80%A2+ship+fast%2C+ship+secure" alt="typing"/>
 </a>
 
 <p>
-  <a href="https://jasperblck.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=00ff9c"/></a>
-  <a href="https://t.me/reversoqzzM"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff9c"/></a>
-  <a href="mailto:skillov05@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff9c"/></a>
-  <a href="https://kwork.ru/user/jasperblck"><img src="https://img.shields.io/badge/Hire_me-000000?style=for-the-badge&logo=handshake&logoColor=00ff9c"/></a>
   <img src="https://komarev.com/ghpvc/?username=jasperBLCK&style=for-the-badge&color=00ff9c&label=VISITORS"/>
 </p>
 
@@ -24,12 +20,13 @@
 ```
 
 ```yaml
-name:      Ansar Karimov
+handle:    jasperBLCK
 role:      Fullstack Developer — backend first
 focus:     [Python, FastAPI, microservices, Telegram bots, AI integrations]
-security:  [School 21 (cybersecurity), networks & telecom, Linux, OSINT, secure auth]
+security:  [cybersecurity, networks & telecom, Linux, OSINT, secure auth]
 building:  production APIs with Keycloak SSO, Redis, PostgreSQL on Kubernetes
 motto:     "ship fast, ship secure"
+location:  127.0.0.1
 status:    open to remote projects 🟢
 ```
 
@@ -60,7 +57,7 @@ status:    open to remote projects 🟢
 
 ```diff
 + Auth done right: Keycloak SSO, JWT, OAuth 2.0, RBAC
-+ Network fundamentals: TCP/IP, routing, telecom (university track)
++ Network fundamentals: TCP/IP, routing, telecom
 + OSINT tooling: IP intelligence lookup (MyPet-IP-Info-Searcher)
 + Hardened deploys: Linux, Docker, least-privilege containers, secrets out of code
 - Trust user input
@@ -81,9 +78,9 @@ status:    open to remote projects 🟢
 | Project | What it is | Stack |
 |---|---|---|
 | 📥 [**Youstagram Bot**](https://github.com/jasperBLCK/youstagram_bot) | YouTube/Instagram/TikTok downloader bot + monetization admin panel | aiogram 3 · arq · Redis · PostgreSQL · FastAPI |
-| 🕋 [**HadjCRM**](https://github.com/jasperBLCK/HadjCRM) | B2B CRM for Hajj & Umrah tour operators | FastAPI · PostgreSQL |
+| 🕋 [**HadjCRM**](https://github.com/jasperBLCK/HadjCRM) | B2B CRM for travel operators: quotas, documents, payments | FastAPI · PostgreSQL |
 | 🧭 [**HH.RUWEB**](https://github.com/jasperBLCK/HH.RUWEB) | Job-search autopilot: AI scoring & auto cover letters | FastAPI · SQLite · LLM |
-| 🍽️ [**WayMenu**](https://github.com/jasperBLCK/WayMenu-FASTAPI) | Restaurant discovery app for Grozny | FastAPI · React · Tailwind |
+| 🍽️ [**WayMenu**](https://github.com/jasperBLCK/WayMenu-FASTAPI) | Restaurant discovery web app | FastAPI · React · Tailwind |
 | 🥊 [**Smart Hotel Fighting**](https://github.com/jasperBLCK/SmartHotel_Fighting) | Browser 2D fighting game, 2–4 players over WebRTC | JS · Canvas · WebRTC |
 
 ## 📊 Stats
